@@ -6,20 +6,20 @@ To complete this project, follow the instructions below. If you get stuck, ask a
 
 1. Initialize your project
 
-- Open the command line, navigate to your project, and run the npm init command to set up your package.json file.
+  - Open the command line, navigate to your project, and run the npm init command to set up your package.json file.
 
 2. Add your dependencies
 
-- At a minimum, your project will need Express and Pug installed via the command line.
+  - At a minimum, your project will need Express and Pug installed via the command line.
 
 3. Handle files and folders that shouldn't be stored in your repo
 4. Images
 
-- Create an images folder in your directory to store your images.
-- Add a profile pic of yourself that you would feel comfortable sharing with potential employers. It should present well at 550px by 350px.
-- Take screenshots of your projects. You will need at least two screenshots for each project.
-  - A main shot for the landing page which should be a square image that can display well at 550px by 550px.
-  - Between one and three additional images that can be any dimensions you want, but work well in this project as landscape images that present well at 1200px by 550px.
+  - Create an images folder in your directory to store your images.
+  - Add a profile pic of yourself that you would feel comfortable sharing with potential employers. It should present well at 550px by 350px.
+  - Take screenshots of your projects. You will need at least two screenshots for each project.
+    * A main shot for the landing page which should be a square image that can display well at 550px by 550px.
+    * Between one and three additional images that can be any dimensions you want, but work well in this project as landscape images that present well at 1200px by 550px.
 
 5. Add your project data to your directory
 
