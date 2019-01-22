@@ -6,7 +6,7 @@ To complete this project, follow the instructions below. If you get stuck, ask a
 
 1. Initialize your project
 
-  - Open the command line, navigate to your project, and run the npm init command to set up your package.json file.
+    - Open the command line, navigate to your project, and run the npm init command to set up your package.json file.
 
 2. Add your dependencies
 
