@@ -1,25 +1,33 @@
 {
   "projects": {
-    "info" : [
-      {"id": "0",
-      "technologies": "JavaScript",
-      "live_link" : "https://fallencloud.github.io/Random-Quote-Generator/index.html",
-      "github_link": "https://github.com/fallencloud/Random-Quote-Generator",
-      "image_urls": ["public/img/th-quotes.png", "public/img/quote-gen.png"]}
+    "info": [
+      {
+        "id": "0",
+        "technologies": "JavaScript",
+        "live_link": "https://fallencloud.github.io/Random-Quote-Generator/index.html",
+        "github_link": "https://github.com/fallencloud/Random-Quote-Generator",
+        "image_urls": ["public/img/th-quotes.png", "public/img/quote-gen.png"]
+      },
+      {
+        "id": "1",
+        "technologies": "JavaScript",
+        "live_link": "https://fallencloud.github.io/pagination-filter-v2/",
+        "github_link": "https://github.com/fallencloud/pagination-filter-v2",
+        "image_urls": [
+          "public/img/th-pagination.png",
+          "public/img/pagination-links.png"
+        ]
+      },
+      {
+        "id": "3",
+        "technologies": "JavaScript, CSS",
+        "live_link": "https://fallencloud.github.io/Tic-Tac-Toe/",
+        "github_link": "https://github.com/fallencloud/Tic-Tac-Toe",
+        "image_urls": [
+          "public/img/th-ticTacToe.png",
+          "public/img/tic-tac-toe.png"
+        ]
+      }
     ]
-    "id"
-    "technologies"
-    "live_link"
-    "github_link"
-    "image_urls"
-
   }
-
 }
-id - give each project a unique id, which can just be a single digit number starting at 0 for the first project, 1 for the second project, etc.
-project_name
-description
-technologies - an array of strings containing a list of the technologies used in the project
-live_link - link to the live version of the project, which can be hosted for free on GitHub pages. Check the project resources list for a helpful reference link.
-github_link - link to the GitHub repo
-image_urls - an array of strings containing file paths from the views folder to the images themselves. You'll need a main image to be shown on the landing page, and three images to be shown on the project page.
