@@ -19,13 +19,33 @@
         ]
       },
       {
-        "id": "3",
+        "id": "2",
         "technologies": "JavaScript, CSS",
         "live_link": "https://fallencloud.github.io/Tic-Tac-Toe/",
         "github_link": "https://github.com/fallencloud/Tic-Tac-Toe",
         "image_urls": [
           "public/img/th-ticTacToe.png",
           "public/img/tic-tac-toe.png"
+        ]
+      },
+      {
+        "id": "3",
+        "technologies": "JavaScript, CSS, AJAX, API",
+        "live_link": "https://fallencloud.github.io/employee_directory/",
+        "github_link": "https://github.com/fallencloud/employee_directory",
+        "image_urls": [
+          "public/img/th-employee.png",
+          "public/img/pagination-links.png"
+        ]
+      },
+      {
+        "id": "4",
+        "technologies": "JavaScript, CSS, AJAX, API",
+        "live_link": "https://fallencloud.github.io/Build-an-Interactive-Form/",
+        "github_link": "https://github.com/fallencloud/Build-an-Interactive-Form",
+        "image_urls": [
+          "public/img/th-form.png",
+          "public/img/pagination-links.png"
         ]
       }
     ]
